@@ -1,9 +1,4 @@
-;--------------------------------------------------------------------------
-;
-; fli viewer
-; original code taken from: https://github.com/jkotlinski/vicpack
-;
-;--------------------------------------------------------------------------
+ 
 
 TRUE           = 1                    ;conditional control codes
 FALSE          = 0
