@@ -1,6 +1,6 @@
 # batman-the-movie c64
 
-![MarineGEO circle logo](/map-browser.png "image logo")
+![MarineGEO circle logo](/map-browser.png "ocean map utility")
 
 
 map utility is a dissection of some routines used by Ocean in their games to browse the level map.
